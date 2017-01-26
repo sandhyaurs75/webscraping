@@ -1,0 +1,504 @@
+-------------------------------------------------------------------------------------------------------
+|					WEBSITE					|					E-COMMERCE					|
+-------------------------------------------------------------------------------------------------------
+|               http://radiounumanele.com				|					True					|
+|				http://garage-autodep.com				|					No Response					|
+|				http://adbagency.com				|					False					|
+|				http://timelesspiece.eu				|					False					|
+|				http://watchesbestdeals.com				|					True					|
+|				http://nibiru.com.hk				|					False					|
+|				http://longinesfrance.xn--nike-tg9gs23cos3b.net				|					No Response					|
+|				http://ajs.com.es				|					No Response					|
+|				http://paginasamarillasec.com				|					No Response					|
+|				http://airforceone-ny.tripod.com				|					False					|
+|				http://brujas.nyc				|					False					|
+|				http://vinstore24.ru				|					False					|
+|				http://wikipost.ga				|					False					|
+|				http://wholesale-s9vvdm0d.ga				|					No Response					|
+|				http://fashionpress.it				|					False					|
+|				http://schullin.at				|					True					|
+|				http://luxshery.com				|					False					|
+|				http://microwinner.cn				|					False					|
+|				http://mycorner.fr				|					True					|
+|				http://allboatsavenue.com				|					False					|
+|				http://m.kenh14.vn				|					False					|
+|				http://noobn6.com				|					False					|
+|				http://pinktradition.blogspot.com				|					True					|
+|				http://bigbigwatch1.blog.hexun.com				|					No Response					|
+|				http://ovianet.com				|					False					|
+|				http://imusttravel.ca				|					False					|
+|				http://duhallowwebdesign.com				|					True					|
+|				http://jollymagazine.com				|					False					|
+|				http://news.gia114.com				|					True					|
+|				http://inwonderland.co				|					No Response					|
+|				http://importir-7vnsmvrq.ga				|					No Response					|
+|				http://rosetteismyname.wordpress.com				|					False					|
+|				http://watcheswe.blogspot.com				|					True					|
+|				http://26312607.com				|					True					|
+|				http://balili.com.ua				|					True					|
+|				http://159.203.76.46.				|					No Response					|
+|				http://escolavitae.com				|					False					|
+|				http://scarecrow-prez.blogspot.com				|					True					|
+|				http://granadis.com				|					True					|
+|				http://cantinamundo.fr				|					True					|
+|				http://artglassstudio.com.au				|					False					|
+|				http://vavitriathlonclub.com				|					No Response					|
+|				http://watchdodo.com				|					False					|
+|				http://40rz.com				|					False					|
+|				http://shelbyvillemonument.com				|					False					|
+|				http://chanel_5844310.molobi.com				|					True					|
+|				http://andrea-casanova.com				|					True					|
+|				http://sss.style-tips.com				|					False					|
+|				http://passage-projects.com				|					False					|
+|				http://iskraufa.ru				|					False					|
+|				http://kusamivn.com				|					True					|
+|				http://borsetta-channel.com				|					False					|
+|				http://chanel.hitss.ru				|					False					|
+|				http://thejewelleryinsider.net				|					False					|
+|				http://blindssi.blinds-shops.com				|					False					|
+|				http://lesyzbiroh.cz				|					False					|
+|				http://avaclip.com				|					False					|
+|				http://cinemanet.info				|					False					|
+|				http://1.liangtzi.net				|					False					|
+|				http://goedkoophublotbigbangking.blogspot.com				|					False					|
+|				http://modne-hodinky.blogspot.com				|					False					|
+|				http://libertop.ru				|					False					|
+|				http://zscjmy.com.cn				|					True					|
+|				http://brandstory.baike.com				|					False					|
+|				http://chrysalischarters.com				|					False					|
+|				http://elare.pl				|					False					|
+|				http://dreamworks.wikia.com				|					False					|
+|				http://zbw666.com				|					No Response					|
+|				http://vinshop24.ru				|					False					|
+|				http://epaper.hilizi.com				|					False					|
+|				http://paginasdigital.es				|					False					|
+|				http://hbzczb.cn				|					False					|
+|				http://melanielyon-ramonescobosa.com				|					False					|
+|				http://122.10.50.145.				|					No Response					|
+|				http://vogue.com.tw				|					False					|
+|				http://aidid.cn				|					False					|
+|				http://qishan.soshaw.com				|					No Response					|
+|				http://pwindata.com				|					False					|
+|				http://watch-sale-stok.ru				|					True					|
+|				http://time-brend.ru				|					False					|
+|				http://pforpieces.com				|					True					|
+|				http://393edu.org				|					No Response					|
+|				http://niu9999.com				|					No Response					|
+|				http://filmpunkten.se				|					False					|
+|				http://chanel.52watch.com				|					True					|
+|				http://blog.miya1975.com				|					False					|
+|				http://archyworldys.com				|					False					|
+|				http://zeleb.mx				|					No Response					|
+|				http://zbbsweb.com				|					No Response					|
+|				http://cassettiorologi.it				|					False					|
+|				http://sikashop.avablog.ir				|					True					|
+|				http://zipe.fr				|					True					|
+|				http://industry-75iitbwp.ga				|					No Response					|
+|				http://catwalkkitty.co.uk				|					True					|
+|				http://sieuthidonghohieu.com				|					True					|
+|				http://odadonna.xyz				|					False					|
+|				http://izzaf.livejournal.com				|					False					|
+|				http://3711862.blog.hexun.com.tw				|					No Response					|
+|				http://ctkcathedral.org				|					False					|
+|				http://videoartis.xyz				|					False					|
+|				http://yuepai.wang				|					False					|
+|				http://guitar.co.uk				|					True					|
+|				http://londonmonumentco.com				|					False					|
+|				http://magazine.afr.com				|					False					|
+|				http://indidi.co.uk				|					No Response					|
+|				http://za-st.ru				|					True					|
+|				http://m.niwotashow.com				|					False					|
+|				http://h2.itlweb.com				|					False					|
+|				http://mickspizzeria.com				|					No Response					|
+|				http://fakechanelwatchesj12.wordpress.com				|					True					|
+|				http://2017mixi-free.com				|					True					|
+|				http://lescarnetsdaurelia.com				|					False					|
+|				http://laridon.fr				|					True					|
+|				http://servingnotice.com				|					False					|
+|				http://ssandt.org				|					False					|
+|				http://becksmithhollywood.com				|					True					|
+|				http://radiantglamor.com				|					False					|
+|				http://michaelkorscase.tumblr.com				|					False					|
+|				http://shichikaicom.wixsite.com				|					No Response					|
+|				http://qa.fashionnetwork.com				|					True					|
+|				http://cronememorials.com				|					False					|
+|				http://hauteinhabit.com				|					No Response					|
+|				http://irsaindiana.org				|					No Response					|
+|				http://yu14913.pixnet.net				|					True					|
+|				http://watchsupercopy.com				|					True					|
+|				http://gold110.jp				|					No Response					|
+|				http://hehdesigns.tumblr.com				|					False					|
+|				http://filmski.net				|					False					|
+|				http://luxeglobal.com				|					True					|
+|				http://vip-brand1.ru				|					No Response					|
+|				http://bameshi.com				|					False					|
+|				http://202.121.168.9.				|					No Response					|
+|				http://god2016m.ru				|					False					|
+|				http://articleshost.com				|					False					|
+|				http://trianglekiosk.com				|					No Response					|
+|				http://se.fashionnetwork.com				|					True					|
+|				http://baidu.com				|					False					|
+|				http://replicadictionary.com				|					False					|
+|				http://chanel_5502079.molobi.com				|					No Response					|
+|				http://noobj12fk.com				|					False					|
+|				http://nonidesign.over-blog.com				|					True					|
+|				http://fashionenews.com				|					True					|
+|				http://world-of-pany.blogspot.com				|					False					|
+|				http://aaa.bmall315.com				|					True					|
+|				http://shops-phone.com				|					False					|
+|				http://price-chanel.52watch.com				|					True					|
+|				http://apurseforum.com				|					True					|
+|				http://codedwap.com.ng				|					No Response					|
+|				http://xn--mnqx6j97z9wcs8fq6r.xn--tfrxfu2p.name				|					No Response					|
+|				http://digixstreamusa.com				|					False					|
+|				http://digiala.ir				|					True					|
+|				http://sistime.ru				|					False					|
+|				http://zbkb.com				|					False					|
+|				http://filmreviewonline.com				|					No Response					|
+|				http://universalwristwatch.com				|					True					|
+|				http://ckbabes.com				|					No Response					|
+|				http://sveg.org.cn				|					No Response					|
+|				http://elmstrom.blogg.se				|					False					|
+|				http://hero000bd.ehoh.net				|					False					|
+|				http://premiertaxfree.cn				|					True					|
+|				http://hungwei.looker.tw				|					False					|
+|				http://xn--chopard-db7mf4qsp7ilfraekkxli.xn--nike-tg9gs23cos3b.net				|					No Response					|
+|				http://enlightenedage.blogspot.com				|					True					|
+|				http://trendingsale.com				|					False					|
+|				http://watch.listitems.info				|					True					|
+|				http://dontbalkbaseballshop.com				|					True					|
+|				http://smelink.se				|					True					|
+|				http://m.wroclaw.plan.pl				|					False					|
+|				http://azcache.com				|					No Response					|
+|				http://arsip.forumbebas.com				|					False					|
+|				http://chupsanpham.com.vn				|					False					|
+|				http://philippebanks.com				|					True					|
+|				http://thecooluxury.com				|					No Response					|
+|				http://opera-kinbido.com				|					False					|
+|				http://naktigone.lt				|					No Response					|
+|				http://buy-8511.ir				|					True					|
+|				http://gannon.com.vn				|					No Response					|
+|				http://chanel.granadis.com				|					True					|
+|				http://joyeriasaneloy.com				|					True					|
+|				http://de5igner.myshopify.com				|					True					|
+|				http://nasimvideo.ir				|					False					|
+|				http://santroxshop.com				|					False					|
+|				http://filmering.at				|					False					|
+|				http://chanel1.best-gooods.ru				|					True					|
+|				http://trc.vg				|					False					|
+|				http://kal-mor.com				|					True					|
+|				http://festivalofflavour.com.au				|					No Response					|
+|				http://channel2.hitsale.net				|					False					|
+|				http://ebooking24.com				|					False					|
+|				http://elenka.ru				|					False					|
+|				http://repwatchesuk.com				|					False					|
+|				http://bjr027.com				|					False					|
+|				http://bestseller.in.ua				|					True					|
+|				http://masterenfilosofia.es				|					False					|
+|				http://javanmedia.ir				|					No Response					|
+|				http://planbet.es				|					No Response					|
+|				http://laumaclatubul.cf				|					No Response					|
+|				http://media.gunaxin.com				|					No Response					|
+|				http://croatia-stuttgart.de				|					False					|
+|				http://1designfree.com				|					True					|
+|				http://thestchristopherschool.co.uk				|					False					|
+|				http://carnabysjewellers.co.uk				|					True					|
+|				http://online.abacus.coop				|					True					|
+|				http://lilianjewelry.com				|					True					|
+|				http://film.it				|					False					|
+|				http://c.trklp.ru				|					False					|
+|				http://papote.net				|					True					|
+|				http://pilatescheshire.guru				|					No Response					|
+|				http://alerttrainers.com				|					True					|
+|				http://rahatkharid.ir				|					False					|
+|				http://nexfilm.ir				|					False					|
+|				http://879wr.com				|					True					|
+|				http://eleanor1011.pixnet.net				|					False					|
+|				http://kairosstore.com				|					True					|
+|				http://supa-kopi-cartier.com				|					True					|
+|				http://wer3414.pixnet.net				|					False					|
+|				http://exspace.pl				|					False					|
+|				http://jvnan.com				|					False					|
+|				http://shopsearchs.com				|					False					|
+|				http://afzone.blog.ir				|					True					|
+|				http://mydarlinglife.com				|					True					|
+|				http://thecccinc.org				|					False					|
+|				http://w1236155.seesaa.net				|					False					|
+|				http://lahummatbayli.com				|					True					|
+|				http://ssnnshop2017.com				|					False					|
+|				http://luotuohuwai.org				|					False					|
+|				http://racketlon.at				|					False					|
+|				http://scubafroggy.fr				|					True					|
+|				http://trajly.cz				|					False					|
+|				http://situartes.es				|					False					|
+|				http://nicolelmedia.blogspot.com				|					True					|
+|				http://tylerchoi8.mall.yorkbbs.ca				|					True					|
+|				http://kiemtoan.com.vn				|					No Response					|
+|				http://interviewrussia.ru				|					True					|
+|				http://thamgia.net				|					False					|
+|				http://tokiwokizamu.com				|					False					|
+|				http://anhnghethuathanoi.blogspot.com				|					False					|
+|				http://cms.harpersbazaar.com.hk				|					No Response					|
+|				http://new.femina.ch				|					True					|
+|				http://facebook.com				|					False					|
+|				http://jyhhdp.com				|					False					|
+|				http://xikili.com				|					No Response					|
+|				http://watche.tcso.cn				|					False					|
+|				http://vntourism.cn				|					False					|
+|				http://bevalenteoficial.wordpress.com				|					False					|
+|				http://monicatlmh03.pixnet.net				|					True					|
+|				http://cchere.com				|					False					|
+|				http://mvnvh.com				|					False					|
+|				http://robotclass.ru				|					False					|
+|				http://u-labs.de				|					False					|
+|				http://sss.tsunokakushi.com				|					False					|
+|				http://interbag.com.ua				|					True					|
+|				http://ika-mode.pinger.pl				|					True					|
+|				http://lofficiel.vn				|					False					|
+|				http://qlspj.com				|					False					|
+|				http://orologisvizzeri.com				|					No Response					|
+|				http://debajodelreloj.com				|					False					|
+|				http://top-optom.ru				|					False					|
+|				http://zijin.mall.yorkbbs.ca				|					True					|
+|				http://stilvagoon.com				|					True					|
+|				http://tedxmontevideo.org				|					True					|
+|				http://arcashop.ir				|					False					|
+|				http://aj12watch.com				|					True					|
+|				http://tomucho.com				|					No Response					|
+|				http://chikakopote.blog.fc2.com				|					False					|
+|				http://imoyo.com.cn				|					False					|
+|				http://homeminimalis.com				|					No Response					|
+|				http://chanel-stok.ru				|					False					|
+|				http://xjywx.com				|					False					|
+|				http://supershoppingmaster.blogspot.com				|					True					|
+|				http://thedarlingdetails.blogspot.com				|					True					|
+|				http://checksoranva.getenjoyment.net				|					No Response					|
+|				http://copy59.com				|					False					|
+|				http://boswellmonuments.com				|					False					|
+|				http://009520.com				|					No Response					|
+|				http://bbkz.bid				|					No Response					|
+|				http://0202003.com				|					False					|
+|				http://watchespedia.com				|					False					|
+|				http://lkbkspro.eiger-agency.lookbooks.me				|					False					|
+|				http://playen3.indexbuzz.net				|					False					|
+|				http://kokwatch.com				|					False					|
+|				http://prosupportsystems.com				|					False					|
+|				http://swisswatchesreviews.com				|					No Response					|
+|				http://watchesforwomen.co.uk				|					No Response					|
+|				http://ballerwatches.com				|					False					|
+|				http://zjahhj.com				|					True					|
+|				http://spzswang.com				|					False					|
+|				http://smartshopity.co.uk				|					No Response					|
+|				http://asianguesthouse.com				|					No Response					|
+|				http://122.10.50.57.				|					No Response					|
+|				http://hkeasychat.com				|					False					|
+|				http://houmania.com				|					False					|
+|				http://channel2.shopsale.pro				|					False					|
+|				http://aicopy65.com				|					False					|
+|				http://wealthisme.com				|					False					|
+|				http://campaign.hk.mensuno.asia				|					False					|
+|				http://worldscreen.com.tw				|					False					|
+|				http://easy2dial.in				|					False					|
+|				http://wisdreams.com				|					No Response					|
+|				http://hongkongtudor.xn--eus26d31nh24a.com				|					No Response					|
+|				http://caronmemorial.com				|					False					|
+|				http://4star.niloblog.com				|					True					|
+|				http://bloemist-alexandrium.nl				|					No Response					|
+|				http://agreellen.pixnet.net				|					True					|
+|				http://originwfjeceu-www.chanel.com				|					No Response					|
+|				http://art-quest.ru				|					True					|
+|				http://semadihuancayo.com				|					No Response					|
+|				http://hdwon.com				|					No Response					|
+|				http://1001dicas.net				|					No Response					|
+|				http://deepforestcomic.com				|					No Response					|
+|				http://xn--80a8aqs.xn--80aoh.xn--b1amgoeo.com				|					No Response					|
+|				http://watchesuser.com				|					True					|
+|				http://luxuryauthentichandbags.eu				|					True					|
+|				http://crocuscitymall.ru				|					True					|
+|				http://musicca.host				|					No Response					|
+|				http://56vod.net				|					No Response					|
+|				http://ictf2016.ieice-europe.org				|					False					|
+|				http://bagll.net				|					False					|
+|				http://akimoto-rie.blogspot.com				|					False					|
+|				http://ceasuri.shop				|					True					|
+|				http://ouxiangpai.com				|					False					|
+|				http://pinkribbonbreakfast.at				|					True					|
+|				http://leisure1937.rssing.com				|					True					|
+|				http://demo2.aliplugin.es				|					True					|
+|				http://ouietconsequences.fr				|					True					|
+|				http://ibieshop2.blogspot.com				|					True					|
+|				http://sunwardflag.com				|					True					|
+|				http://handbagshows.site				|					True					|
+|				http://68.leverenzautomotive.com				|					No Response					|
+|				http://gugo.info				|					False					|
+|				http://claxfactor.blogspot.com				|					False					|
+|				http://195.154.205.150.				|					No Response					|
+|				http://eieful.exblog.jp				|					False					|
+|				http://copykate.blogspot.com				|					True					|
+|				http://dbhr.bid				|					No Response					|
+|				http://cswatchco.com				|					No Response					|
+|				http://time-brend2.ru				|					False					|
+|				http://luxgroupltd.ru				|					False					|
+|				http://usnavycrew.com				|					No Response					|
+|				http://ddtfsb.com				|					False					|
+|				http://69.16.194.131.				|					No Response					|
+|				http://wishesjewelry.net				|					True					|
+|				http://thepoolscene.com				|					False					|
+|				http://blog.lastelier.com				|					True					|
+|				http://kulthit.de				|					False					|
+|				http://mylino.ir				|					True					|
+|				http://blakfacts.blogspot.com				|					False					|
+|				http://bestwatchesdeals.co				|					True					|
+|				http://thelibrarygroup.be				|					False					|
+|				http://gmt2013.com				|					True					|
+|				http://kafgroup.se				|					False					|
+|				http://bagnopiero.it				|					False					|
+|				http://vintagevicar22.wordpress.com				|					True					|
+|				http://ebay.com				|					True					|
+|				http://replicamontre.fr				|					True					|
+|				http://weilai178.com				|					No Response					|
+|				http://waltzingm.com				|					True					|
+|				http://cartierks.xn--nike2012-604r392ccs4elz0a.com				|					No Response					|
+|				http://xca351.pixnet.net				|					False					|
+|				http://pellegrin-et-fils.com				|					True					|
+|				http://bagsreplicas.top				|					No Response					|
+|				http://122.10.50.144.				|					No Response					|
+|				http://sweetembroideryfree.com				|					False					|
+|				http://zhhbds.com				|					No Response					|
+|				http://ccthere.com				|					False					|
+|				http://lofficielmalaysia.com				|					False					|
+|				http://spielegasse.de				|					True					|
+|				http://flowers.cheerclassics.com				|					False					|
+|				http://ictf2015.ieice-europe.org				|					False					|
+|				http://lifestyleagent.nl				|					True					|
+|				http://icon-icon.fr				|					False					|
+|				http://embassy.ch				|					False					|
+|				http://kristenfilm.com				|					False					|
+|				http://achicdirection.com				|					False					|
+|				http://reluxe.ca				|					False					|
+|				http://1chanel.2015brend.ru				|					False					|
+|				http://kompas4.ru				|					False					|
+|				http://rossettoeguai.it				|					False					|
+|				http://thegioicauca.com				|					False					|
+|				http://dcscam.com				|					True					|
+|				http://nacd.co.uk				|					True					|
+|				http://cacheepr.wordpress.com				|					False					|
+|				http://xn--80aalbng9atkk.xn--p1ai				|					False					|
+|				http://stefanie-stoelting.de				|					False					|
+|				http://parentpreviews.com				|					False					|
+|				http://backstagetales.com				|					False					|
+|				http://hollfelder.de				|					False					|
+|				http://innateskin.com				|					True					|
+|				http://fashionbrand.org				|					True					|
+|				http://dandasmetals.mall.yorkbbs.ca				|					True					|
+|				http://dev.harpersbazaar.my				|					No Response					|
+|				http://cheapchanelsale2015.com				|					True					|
+|				http://chaneltokeikaitori.com				|					True					|
+|				http://xayxbj.com				|					False					|
+|				http://xintuosc.com				|					True					|
+|				http://fullhd-roliki.ru				|					False					|
+|				http://so-copy.com				|					True					|
+|				http://melnandutmacammanalagi.blogspot.com				|					False					|
+|				http://irischan.blog124.fc2.com				|					False					|
+|				http://uhren-swiss-rolex-daytona-hot.blogspot.com				|					False					|
+|				http://copy016.com				|					False					|
+|				http://replicaswatch.top				|					False					|
+|				http://gapwet.xyz				|					No Response					|
+|				http://xn--22cej8ezaasjc5ef5fgbb5bycxovcjo.com				|					False					|
+|				http://lexingtongraniteco.com				|					False					|
+|				http://infos-75.com				|					No Response					|
+|				http://jetrichonline.com				|					No Response					|
+|				http://bluray-disc.de				|					True					|
+|				http://wwwm.com.tw				|					No Response					|
+|				http://chasy1-chanel.parfumes.pp.ua				|					No Response					|
+|				http://projetoempreendedor.com				|					False					|
+|				http://fyndson.se				|					True					|
+|				http://rb-triangle.sakura.ne.jp				|					False					|
+|				http://slashitmag.com				|					False					|
+|				http://fanaticsworldwide.com				|					True					|
+|				http://fashionwatchesshop.eu				|					No Response					|
+|				http://cinemerida.blogspot.com				|					True					|
+|				http://chanelsonlineshop.de				|					True					|
+|				http://shopmenow.blogsky.com				|					True					|
+|				http://sandau.edu.cn				|					No Response					|
+|				http://labutaca.net				|					False					|
+|				http://nostime.com				|					False					|
+|				http://hnpcorp.net				|					False					|
+|				http://know-it-ebog.dk				|					False					|
+|				http://70biao.com				|					No Response					|
+|				http://m.ddtfsb.com				|					False					|
+|				http://gabris.eoldal.hu				|					True					|
+|				http://gallaghermonuments.com				|					False					|
+|				http://lombard-premium.com.ua				|					True					|
+|				http://daytonarolex.top				|					True					|
+|				http://swiss-luxe24.ru				|					False					|
+|				http://louisvuittonreplicabag.com				|					False					|
+|				http://geotaboretmi.gq				|					No Response					|
+|				http://liehunwang.com				|					False					|
+|				http://parkciftlik.com				|					False					|
+|				http://takebagshome.us				|					False					|
+|				http://ovum.org.pl				|					True					|
+|				http://monpetitvendome.fr				|					True					|
+|				http://kalashop.niloblog.com				|					True					|
+|				http://cineclub.de				|					True					|
+|				http://dicasdefilmes.com.br				|					No Response					|
+|				http://niwotashow.com				|					False					|
+|				http://kinbido.info				|					No Response					|
+|				http://kamil-karamali.com				|					False					|
+|				http://ujh51jz16a.pixnet.net				|					False					|
+|				http://mdh-vip.com				|					True					|
+|				http://yfhpif.myday.cn				|					True					|
+|				http://vloggest.com				|					True					|
+|				http://catlezzie.gq				|					No Response					|
+|				http://customjewelrymare.com				|					False					|
+|				http://pinky-st.skr.jp				|					False					|
+|				http://barpaly.com				|					False					|
+|				http://paulineferrari.com				|					False					|
+|				http://teafor.xyz				|					No Response					|
+|				http://zaloro.com				|					No Response					|
+|				http://bdalbum.com				|					False					|
+|				http://homegallerystores.com				|					False					|
+|				http://kanaja.in				|					No Response					|
+|				http://davids-deco.com				|					True					|
+|				http://m.5noob.com				|					True					|
+|				http://bursamusik.dfakemp3.com				|					No Response					|
+|				http://gpdingunut.wordpress.com				|					False					|
+|				http://lady.51802.com				|					No Response					|
+|				http://embroiderybella.com				|					True					|
+|				http://gift5star.com				|					True					|
+|				http://gzmb99.com				|					No Response					|
+|				http://hairstyleday.blogspot.com.ng				|					False					|
+|				http://mapeli.com				|					True					|
+|				http://luxurystation.vn				|					True					|
+|				http://bullrichcampos.com.ar				|					No Response					|
+|				http://1stcopychanelflapbags.com				|					True					|
+|				http://shopjpk7.com				|					False					|
+|				http://tos.shabri.ru				|					False					|
+|				http://5.39.90.27.				|					No Response					|
+|				http://hittovar24.blizko.kz				|					No Response					|
+|				http://psimovie.com				|					No Response					|
+|				http://xzsbzx.com				|					False					|
+|				http://joseweb.webr.ly				|					False					|
+|				http://hangaysaat.com				|					True					|
+|				http://topthingz.com				|					True					|
+|				http://japex.ru				|					True					|
+|				http://luxurymarkets.me				|					True					|
+|				http://catwalkkitty.blogspot.com				|					True					|
+|				http://harpersbazaar.pl				|					True					|
+|				http://rossmanning.com				|					False					|
+|				http://europa-gold-paris.com				|					False					|
+|				http://wer3413.pixnet.net				|					False					|
+|				http://timezite.com				|					True					|
+|				http://wefs125.pixnet.net				|					False					|
+|				http://freakcart.com				|					True					|
+|				http://begmarkq.cf				|					No Response					|
+|				http://sikashop.ir				|					True					|
+|				http://goud-smederij.nl				|					No Response					|
+|				http://kalaashop.javanblog.ir				|					True					|
+|				http://rolexwatchesforsale.top				|					True					|
+|				http://rodlme.com				|					No Response					|
+|				http://m.imaginea.info				|					False					|
+|				http://bagfashionews.com				|					True					|
+|				http://myembroideryfree.com				|					True					|
+|				http://sfanytime.com				|					True					|
+---------------------------------------------------------------------------------------------------
